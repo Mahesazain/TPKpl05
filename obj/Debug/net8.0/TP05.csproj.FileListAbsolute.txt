@@ -1,0 +1,15 @@
+D:\Kuliah\SEM4\KPL\TP\TP_KPL\TP05\bin\Debug\net8.0\TP05.exe
+D:\Kuliah\SEM4\KPL\TP\TP_KPL\TP05\bin\Debug\net8.0\TP05.deps.json
+D:\Kuliah\SEM4\KPL\TP\TP_KPL\TP05\bin\Debug\net8.0\TP05.runtimeconfig.json
+D:\Kuliah\SEM4\KPL\TP\TP_KPL\TP05\bin\Debug\net8.0\TP05.dll
+D:\Kuliah\SEM4\KPL\TP\TP_KPL\TP05\bin\Debug\net8.0\TP05.pdb
+D:\Kuliah\SEM4\KPL\TP\TP_KPL\TP05\obj\Debug\net8.0\TP05.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kuliah\SEM4\KPL\TP\TP_KPL\TP05\obj\Debug\net8.0\TP05.AssemblyInfoInputs.cache
+D:\Kuliah\SEM4\KPL\TP\TP_KPL\TP05\obj\Debug\net8.0\TP05.AssemblyInfo.cs
+D:\Kuliah\SEM4\KPL\TP\TP_KPL\TP05\obj\Debug\net8.0\TP05.csproj.CoreCompileInputs.cache
+D:\Kuliah\SEM4\KPL\TP\TP_KPL\TP05\obj\Debug\net8.0\TP05.sourcelink.json
+D:\Kuliah\SEM4\KPL\TP\TP_KPL\TP05\obj\Debug\net8.0\TP05.dll
+D:\Kuliah\SEM4\KPL\TP\TP_KPL\TP05\obj\Debug\net8.0\refint\TP05.dll
+D:\Kuliah\SEM4\KPL\TP\TP_KPL\TP05\obj\Debug\net8.0\TP05.pdb
+D:\Kuliah\SEM4\KPL\TP\TP_KPL\TP05\obj\Debug\net8.0\TP05.genruntimeconfig.cache
+D:\Kuliah\SEM4\KPL\TP\TP_KPL\TP05\obj\Debug\net8.0\ref\TP05.dll
